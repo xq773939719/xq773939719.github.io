@@ -1,0 +1,312 @@
+/* Here is your custom css styles. */
+
+@media only screen and (max-width: 550px) {
+    #articleContent table {
+        table-layout: fixed;
+    }
+}
+
+
+
+.bg-color {
+    background-image: linear-gradient(to right, #1e2020 0%, #1e2020 100%);
+}
+
+.progress-bar {
+    height: 4px;
+    position: fixed;
+    bottom: 0;
+    z-index: 300;
+    background: linear-gradient(to right, #1e2020 0%, #1e2020 100%);
+    opacity: 0.9;
+}
+
+.text-color {
+    color: #111111 !important;
+}
+
+.chip-container .chip:hover {
+    color: #fff;
+    background: linear-gradient(to right, #1e2020 0%, #1e2020 100%) !important;
+}
+
+#aboutme .social-link a {
+    display: inline-block;
+    width: 2.3rem;
+    height: 2.3rem;
+    line-height: 2.2rem;
+    margin: 0 0.5rem;
+    padding: 0;
+    color: #fff;
+    border: 1px solid #1e2020;
+    background: radial-gradient(#1e2020, #1e2020);
+    ;
+    font-size: 0.9rem;
+    border-radius: 50%;
+    box-shadow: 0 4px 6px rgba(50, 50, 93, .21), 0 2px 3px rgba(0, 0, 0, .1);
+}
+
+.other-skills .chip:hover {
+    color: #fff;
+    background: linear-gradient(to right, #1e2020 0%, #1e2020 100%);
+    ;
+    border: 1px solid #1e2020;
+    box-shadow: 0 5px 5px rgba(0, 0, 0, .25);
+}
+
+#cd-timeline .year {
+    position: relative;
+    width: 80px;
+    height: 80px;
+    margin: 10px 0 50px -20px;
+    padding: 21px 10px;
+    background-color: #ff5722;
+    color: #fff;
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+
+#cd-timeline .year a {
+    color: #fff;
+}
+
+#cd-timeline .month {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    margin: 10px 0 30px -10px;
+    padding: 14px 16px;
+    background-color: #ef6c00;
+    color: #fff;
+    font-size: 1.7rem;
+    font-weight: 600;
+}
+
+#cd-timeline .month a {
+    color: #fff;
+}
+
+#cd-timeline .day {
+    position: relative;
+    padding: 8px 10px;
+    background-color: #ffa726;
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 500;
+}
+
+#cd-timeline::before {
+    /* this is the vertical line */
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 50%;
+    height: 100%;
+    width: 4px;
+    background: #1e2020;
+}
+
+blockquote {
+    border-left: 5px solid #1e2020;
+    padding: 1rem 0.8rem 0.2rem 0.8rem;
+    color: rgb(20, 20, 20);
+    background-color: rgba(225, 238, 236, 0.199);
+}
+
+article a {
+    margin-right: 0 !important;
+    color: #1e2020;
+    text-transform: none !important;
+}
+
+article a:hover {
+    font-weight: bold;
+    color: #1e2020;
+    text-decoration: none;
+}
+
+#artDetail .post-info .post-category:hover {
+    font-weight: normal;
+    color: #1e2020;
+    text-decoration: none;
+}
+
+#artDetail .post-info .post-date {
+    color: #1e2020;
+}
+
+#artDetail .reprint a {
+    font-size: 1.05rem;
+    color: #1e2020;
+    font-weight: 500;
+}
+
+#articleContent a {
+    font-size: 100%;
+    padding: 0 2px;
+    color: #424242;
+    /*#eb3d62;*/
+    
+    font-weight:normal;
+    text-decoration: underline;
+}
+
+#artDetail .post-info .post-cate {
+    margin-right: 15px;
+    color: #1e2020;
+}
+
+#artDetail .post-info .post-category {
+    padding-right: 4px;
+    color: #1e2020;
+}
+
+.chip-container .tag-title {
+    margin-bottom: 10px;
+    color: #3C4858;
+    font-size: 1.75rem;
+    font-weight: 400;
+}
+
+.chip-container .chip-default {
+    color: #34495e;
+}
+
+.chip-default .tag-length {
+    color: #e91e63;
+}
+
+.cd-timeline-content::before {
+    content: '';
+    position: absolute;
+    top: 18px !important;
+    right: 100%;
+    height: 0;
+    width: 14px;
+    margin-left: 2px;
+    margin-right: 2px;
+    border: 1px dashed #ffa726;
+}
+
+.post-statis .statis .count a {
+    color: #1e2020;
+}
+
+.search-result-list .search-result-title {
+    font-size: 1.4rem;
+    color: #1e2020;
+}
+
+.search-result-list .search-keyword {
+    margin: 0 2px;
+    padding: 1px 5px 1px 4px;
+    border-radius: 2px;
+    background-color: #f2f2f2;
+    color: #a8a7a5;
+    font-size: .9rem;
+    white-space: pre-wrap;
+}
+
+.top-scroll .btn-floating {
+    background: linear-gradient(to bottom right, #2a2b2b 0%, #000000 100%);
+    width: 48px;
+    height: 48px;
+}
+
+@-webkit-keyframes rainbow {
+    0%,
+    100% {
+        background: rgba(20, 20, 20, 0.60);
+        background: linear-gradient(45deg, rgba(20, 20, 20, 0.60) 0%, rgba(20, 20, 20, 0.45) 50%);
+        background: -moz-linear-gradient(135deg, rgba(20, 20, 20, 0.60) 0%, rgba(20, 20, 20, 0.45) 50%);
+        background: -webkit-linear-gradient(135deg, rgba(20, 20, 20, 0.60) 0%, rgba(20, 20, 20, 0.45) 50%);
+    }
+    16% {
+        background: rgba(41, 77, 40, 0.60);
+        background: linear-gradient(45deg, rgba(41, 77, 40, 0.60) 0%, rgba(41, 77, 40, 0.45) 50%);
+        background: -moz-linear-gradient(135deg, rgba(41, 77, 40, 0.60) 0%, rgba(41, 77, 40, 0.45) 50%);
+        background: -webkit-linear-gradient(135deg, rgba(41, 77, 40, 0.60) 0%, rgba(41, 77, 40, 0.45) 50%);
+    }
+    32% {
+        background: rgba(114, 72, 73, 0.60);
+        background: linear-gradient(45deg, rgba(114, 72, 73, 0.60) 0%, rgba(114, 72, 73, 0.45) 50%);
+        background: -moz-linear-gradient(135deg, rgba(114, 72, 73, 0.60) 0%, rgba(114, 72, 73, 0.45) 50%);
+        background: -webkit-linear-gradient(135deg, rgba(114, 72, 73, 0.60) 0%, rgba(114, 72, 73, 0.45) 50%);
+    }
+    48% {
+        background: rgba(59, 22, 11, 0.60);
+        background: linear-gradient(45deg, rgba(59, 22, 11, 0.60) 0%, rgba(59, 22, 11, 0.45) 50%);
+        background: -moz-linear-gradient(135deg, rgba(59, 22, 11, 0.60) 0%, rgba(59, 22, 11, 0.45) 50%);
+        background: -webkit-linear-gradient(135deg, rgba(59, 22, 11, 0.60) 0%, rgba(59, 22, 11, 0.45) 50%);
+    }
+    64% {
+        background: rgba(54, 36, 4, 0.60);
+        background: linear-gradient(45deg, rgba(54, 36, 4, 0.60) 0%, rgba(54, 36, 4, 0.45) 50%);
+        background: -moz-linear-gradient(135deg, rgba(54, 36, 4, 0.60) 0%, rgba(54, 36, 4, 0.45) 50%);
+        background: -webkit-linear-gradient(135deg, rgba(54, 36, 4, 0.60) 0%, rgba(54, 36, 4, 0.45) 50%);
+    }
+    80% {
+        background: rgba(99, 87, 35, 0.60);
+        background: linear-gradient(45deg, rgba(99, 87, 35, 0.60) 0%, rgba(99, 87, 35, 0.45) 50%);
+        background: -moz-linear-gradient(135deg, rgba(99, 87, 35, 0.60) 0%, rgba(99, 87, 35, 0.45) 50%);
+        background: -webkit-linear-gradient(135deg, rgba(99, 87, 35, 0.60) 0%, rgba(99, 87, 35, 0.45) 50%);
+    }
+}
+
+@keyframes rainbow {
+    0%,
+    100% {
+        background: rgba(20, 20, 20, 0.60);
+        background: linear-gradient(45deg, rgba(20, 20, 20, 0.60) 0%, rgba(20, 20, 20, 0.45) 50%);
+        background: -moz-linear-gradient(135deg, rgba(20, 20, 20, 0.60) 0%, rgba(20, 20, 20, 0.45) 50%);
+        background: -webkit-linear-gradient(135deg, rgba(20, 20, 20, 0.60) 0%, rgba(20, 20, 20, 0.45) 50%);
+    }
+    16% {
+        background: rgba(41, 77, 40, 0.60);
+        background: linear-gradient(45deg, rgba(41, 77, 40, 0.60) 0%, rgba(41, 77, 40, 0.45) 50%);
+        background: -moz-linear-gradient(135deg, rgba(41, 77, 40, 0.60) 0%, rgba(41, 77, 40, 0.45) 50%);
+        background: -webkit-linear-gradient(135deg, rgba(41, 77, 40, 0.60) 0%, rgba(41, 77, 40, 0.45) 50%);
+    }
+    32% {
+        background: rgba(114, 81, 51, 0.6);
+        background: linear-gradient(45deg, rgba(114, 72, 73, 0.60) 0%, rgba(114, 72, 73, 0.45) 50%);
+        background: -moz-linear-gradient(135deg, rgba(114, 72, 73, 0.60) 0%, rgba(114, 72, 73, 0.45) 50%);
+        background: -webkit-linear-gradient(135deg, rgba(114, 72, 73, 0.60) 0%, rgba(114, 72, 73, 0.45) 50%);
+    }
+    48% {
+        background: rgba(59, 22, 11, 0.60);
+        background: linear-gradient(45deg, rgba(59, 22, 11, 0.60) 0%, rgba(59, 22, 11, 0.45) 50%);
+        background: -moz-linear-gradient(135deg, rgba(59, 22, 11, 0.60) 0%, rgba(59, 22, 11, 0.45) 50%);
+        background: -webkit-linear-gradient(135deg, rgba(59, 22, 11, 0.60) 0%, rgba(59, 22, 11, 0.45) 50%);
+    }
+    64% {
+        background: rgba(54, 36, 4, 0.60);
+        background: linear-gradient(45deg, rgba(54, 36, 4, 0.60) 0%, rgba(54, 36, 4, 0.45) 50%);
+        background: -moz-linear-gradient(135deg, rgba(54, 36, 4, 0.60) 0%, rgba(54, 36, 4, 0.45) 50%);
+        background: -webkit-linear-gradient(135deg, rgba(54, 36, 4, 0.60) 0%, rgba(54, 36, 4, 0.45) 50%);
+    }
+    80% {
+        background: rgba(99, 87, 35, 0.60);
+        background: linear-gradient(45deg, rgba(99, 87, 35, 0.60) 0%, rgba(99, 87, 35, 0.45) 50%);
+        background: -moz-linear-gradient(135deg, rgba(99, 87, 35, 0.60) 0%, rgba(99, 87, 35, 0.45) 50%);
+        background: -webkit-linear-gradient(135deg, rgba(99, 87, 35, 0.60) 0%, rgba(99, 87, 35, 0.45) 50%);
+    }
+}
+
+.markdown-body a {
+    padding: 0 2px;
+    color: #1e2020;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.markdown-body blockquote {
+    margin: 15px 0;
+    border-left: 5px solid #1e2020;
+    padding: 1rem 0.8rem 1rem 0.8rem;
+    color: #666;
+    background-color: rgba(66, 185, 131, .1);
+}
+
+
+

@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>晴风的博客</title>
+  
+  <subtitle>晴风</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://blog.xq99.org/"/>
+  <updated>2020-12-03T08:09:05.000Z</updated>
+  <id>https://blog.xq99.org/</id>
+  
+  <author>
+    <name>XQ</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>阅读进度</title>
+    <link href="https://blog.xq99.org//posts/18.%E9%98%85%E8%AF%BB%E8%BF%9B%E5%BA%A6/"/>
+    <id>https://blog.xq99.org//posts/18.阅读进度/</id>
+    <published>2020-12-03T08:08:59.000Z</published>
+    <updated>2020-12-03T08:09:05.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="阅读" scheme="https://blog.xq99.org/tags/%E9%98%85%E8%AF%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>移动端学习网站</title>
+    <link href="https://blog.xq99.org//posts/16.%E7%A7%BB%E5%8A%A8%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99/"/>
+    <id>https://blog.xq99.org//posts/16.移动端学习网站/</id>
+    <published>2020-12-03T07:11:13.000Z</published>
+    <updated>2020-12-03T07:42:54.512Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="移动端" scheme="https://blog.xq99.org/tags/%E7%A7%BB%E5%8A%A8%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>OpenGL学习</title>
+    <link href="https://blog.xq99.org//posts/17.OpenGL%E5%AD%A6%E4%B9%A0/"/>
+    <id>https://blog.xq99.org//posts/17.OpenGL学习/</id>
+    <published>2020-12-03T07:11:13.000Z</published>
+    <updated>2020-12-03T07:11:15.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="OpenGL" scheme="https://blog.xq99.org/tags/OpenGL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>项目学习网站</title>
+    <link href="https://blog.xq99.org//posts/15.%E9%A1%B9%E7%9B%AE%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99/"/>
+    <id>https://blog.xq99.org//posts/15.项目学习网站/</id>
+    <published>2020-12-03T07:09:56.000Z</published>
+    <updated>2020-12-03T07:09:59.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="项目" scheme="https://blog.xq99.org/tags/%E9%A1%B9%E7%9B%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端学习网站</title>
+    <link href="https://blog.xq99.org//posts/13.%E5%89%8D%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99/"/>
+    <id>https://blog.xq99.org//posts/13.前端学习网站/</id>
+    <published>2020-12-03T07:04:25.000Z</published>
+    <updated>2020-12-03T07:04:30.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="前端" scheme="https://blog.xq99.org/tags/%E5%89%8D%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>算法学习网站</title>
+    <link href="https://blog.xq99.org//posts/14.%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99/"/>
+    <id>https://blog.xq99.org//posts/14.算法学习网站/</id>
+    <published>2020-12-03T07:04:18.000Z</published>
+    <updated>2020-12-03T07:04:20.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="算法" scheme="https://blog.xq99.org/tags/%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>后端学习网站</title>
+    <link href="https://blog.xq99.org//posts/12.%E5%90%8E%E7%AB%AF%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99/"/>
+    <id>https://blog.xq99.org//posts/12.后端学习网站/</id>
+    <published>2020-12-03T06:55:34.000Z</published>
+    <updated>2020-12-03T06:55:39.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="后端" scheme="https://blog.xq99.org/tags/%E5%90%8E%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>NPM与Yarn源管理工具</title>
+    <link href="https://blog.xq99.org//posts/11.NPM%E4%B8%8EYarn%E6%BA%90%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7/"/>
+    <id>https://blog.xq99.org//posts/11.NPM与Yarn源管理工具/</id>
+    <published>2020-12-03T06:51:44.000Z</published>
+    <updated>2020-12-03T06:51:44.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="源管理" scheme="https://blog.xq99.org/tags/%E6%BA%90%E7%AE%A1%E7%90%86/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>读《如何自学Android》有感</title>
+    <link href="https://blog.xq99.org//posts/10.%E8%AF%BB%E3%80%8A%E5%A6%82%E4%BD%95%E8%87%AA%E5%AD%A6Android%E3%80%8B%E6%9C%89%E6%84%9F/"/>
+    <id>https://blog.xq99.org//posts/10.读《如何自学Android》有感/</id>
+    <published>2020-12-03T06:51:03.000Z</published>
+    <updated>2020-12-03T06:51:03.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="Android" scheme="https://blog.xq99.org/tags/Android/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>iOS开发知识集合</title>
+    <link href="https://blog.xq99.org//posts/9.iOS%E5%BC%80%E5%8F%91%E7%9F%A5%E8%AF%86%E7%82%B9%E9%9B%86%E5%90%88/"/>
+    <id>https://blog.xq99.org//posts/9.iOS开发知识点集合/</id>
+    <published>2020-12-03T06:40:21.000Z</published>
+    <updated>2020-12-03T06:40:24.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="iOS" scheme="https://blog.xq99.org/tags/iOS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>深度探索C++对象模型</title>
+    <link href="https://blog.xq99.org//posts/8.%E6%B7%B1%E5%BA%A6%E6%8E%A2%E7%B4%A2C++%E5%AF%B9%E8%B1%A1%E6%A8%A1%E5%9E%8B/"/>
+    <id>https://blog.xq99.org//posts/8.深度探索C++对象模型/</id>
+    <published>2020-12-03T06:36:44.000Z</published>
+    <updated>2020-12-03T06:36:50.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="C++" scheme="https://blog.xq99.org/tags/C/"/>
+    
+      <category term="对象" scheme="https://blog.xq99.org/tags/%E5%AF%B9%E8%B1%A1/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>收藏夹</title>
+    <link href="https://blog.xq99.org//posts/7.%E6%94%B6%E8%97%8F%E5%A4%B9/"/>
+    <id>https://blog.xq99.org//posts/7.收藏夹/</id>
+    <published>2020-12-03T06:33:55.000Z</published>
+    <updated>2020-12-03T06:33:57.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="收藏夹" scheme="https://blog.xq99.org/tags/%E6%94%B6%E8%97%8F%E5%A4%B9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>红黑树的实现</title>
+    <link href="https://blog.xq99.org//posts/6.%E7%BA%A2%E9%BB%91%E6%A0%91%E7%9A%84%E5%AE%9E%E7%8E%B0/"/>
+    <id>https://blog.xq99.org//posts/6.红黑树的实现/</id>
+    <published>2020-12-03T06:32:42.000Z</published>
+    <updated>2020-12-03T06:32:45.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="C++" scheme="https://blog.xq99.org/tags/C/"/>
+    
+      <category term="数据结构" scheme="https://blog.xq99.org/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+      <category term="红黑树" scheme="https://blog.xq99.org/tags/%E7%BA%A2%E9%BB%91%E6%A0%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Git命令</title>
+    <link href="https://blog.xq99.org//posts/5.Git%E5%91%BD%E4%BB%A4/"/>
+    <id>https://blog.xq99.org//posts/5.Git命令/</id>
+    <published>2020-12-03T06:25:22.000Z</published>
+    <updated>2020-12-03T06:25:25.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="网络" scheme="https://blog.xq99.org/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="HTTP" scheme="https://blog.xq99.org/tags/HTTP/"/>
+    
+      <category term="HTTPS" scheme="https://blog.xq99.org/tags/HTTPS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>计算机网络浅谈</title>
+    <link href="https://blog.xq99.org//posts/4.%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%B5%85%E8%B0%88/"/>
+    <id>https://blog.xq99.org//posts/4.计算机网络浅谈/</id>
+    <published>2020-12-03T06:24:24.000Z</published>
+    <updated>2020-12-03T06:24:27.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="网络" scheme="https://blog.xq99.org/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="HTTP" scheme="https://blog.xq99.org/tags/HTTP/"/>
+    
+      <category term="HTTPS" scheme="https://blog.xq99.org/tags/HTTPS/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自我驱动</title>
+    <link href="https://blog.xq99.org//posts/3.%E8%87%AA%E6%88%91%E9%A9%B1%E5%8A%A8/"/>
+    <id>https://blog.xq99.org//posts/3.自我驱动/</id>
+    <published>2020-12-03T06:22:01.000Z</published>
+    <updated>2020-12-03T06:22:05.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="软实力" scheme="https://blog.xq99.org/tags/%E8%BD%AF%E5%AE%9E%E5%8A%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>内存管理</title>
+    <link href="https://blog.xq99.org//posts/2.%E5%86%85%E5%AD%98%E7%AE%A1%E7%90%86/"/>
+    <id>https://blog.xq99.org//posts/2.内存管理/</id>
+    <published>2020-12-03T06:18:09.000Z</published>
+    <updated>2020-12-03T06:18:13.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="通用" scheme="https://blog.xq99.org/tags/%E9%80%9A%E7%94%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C++学习的四个层次</title>
+    <link href="https://blog.xq99.org//posts/1.C++%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%9B%9B%E4%B8%AA%E5%B1%82%E6%AC%A1/"/>
+    <id>https://blog.xq99.org//posts/1.C++学习的四个层次/</id>
+    <published>2020-12-03T05:22:37.000Z</published>
+    <updated>2020-12-03T05:22:40.000Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla
+      
+    
+    </summary>
+    
+      <category term="技术" scheme="https://blog.xq99.org/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="C++" scheme="https://blog.xq99.org/tags/C/"/>
+    
+  </entry>
+  
+</feed>
