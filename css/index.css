@@ -1769,7 +1769,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: var(--global-font-size);
-  font-family: ZhuZiAWan, -apple-system, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "STZhongsong", "Lantinghei SC", sans-serif !important;
+  font-family: monaco, ZhuZiAWan, -apple-system, "Segoe UI", "Helvetica Neue", Lato, Roboto, "PingFang SC", "STZhongsong", "Lantinghei SC", sans-serif !important;
 }
 #article-container code {
   padding: 2px 4px;
